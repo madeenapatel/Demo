@@ -18,7 +18,12 @@
     <scope>test</scope>
 </dependency>
 
-  
+
+   <dependency>
+   	<groupId>MP</groupId>
+   	<artifactId>Selenium-jawa</artifactId>
+   	<version>0.0.1-SNAPSHOT</version>
+   </dependency>
   </dependencies>
   <build>
     <sourceDirectory>src</sourceDirectory>
