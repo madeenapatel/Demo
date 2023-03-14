@@ -19,6 +19,10 @@ public class SelIntroduction {
 		System.out.println("code update from X person");
 		System.out.println("code update from X person");
 		System.out.println("code update from X person");
+		
+		System.out.println("code update from X person");
+		System.out.println("code update from X person");
+		System.out.println("code update from X person");
 	}
 
 }
